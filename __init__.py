@@ -6,5 +6,4 @@ Matthew Brown
 Started: 2015-04-13
 '''
 
-if __name__ == '__main__':
-    pass
+from compman import *
